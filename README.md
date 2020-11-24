@@ -1,5 +1,6 @@
 # GitLearnSub
 commit to reamde sub
 
-cool
+cool very
+very cool
 add info
